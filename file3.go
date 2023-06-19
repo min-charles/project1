@@ -1,2 +1,3 @@
 package example
 
+file3
